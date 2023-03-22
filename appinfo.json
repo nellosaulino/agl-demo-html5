@@ -1,0 +1,10 @@
+{
+    "id":"kineton-app",
+    "title" : "Kineton App",
+    "description" : "Media Player Kineton App",
+    "vendor" : "Kineton",
+    "type" : "web",
+    "main": "index.html",
+    "uiRevision": "2",
+    "icon" : "icon.svg"
+}
